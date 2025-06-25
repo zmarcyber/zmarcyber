@@ -8,11 +8,11 @@
 
 <h2>📺  My Cybersecurity YouTube Videos</h2>
 
-How Much Are You Willing to Sacrifice for Cybersecurity?
-- https://www.youtube.com/watch?v=xjMxl55bprU&t=14s
-
-3 Things I Wish I Knew Before Starting Cybersecurity
-- https://www.youtube.com/watch?v=C-67Dw74PQg&t=290s
+How Persistence Wins in Cybersecurity (and Life)
+- https://www.youtube.com/watch?v=1c8G1j2JgnM
+  
+The Progress, The Problems, and The Process WGU BSCIA
+- https://www.youtube.com/watch?v=zX_wOkJQLRk&t
 
 Road to Cyber Ep.3: Scope of Cybersecurity & Building Your Analyst Portfolio | WGU Journey
 - https://www.youtube.com/watch?v=Rs1ZwZy0W_Q&t=1s
